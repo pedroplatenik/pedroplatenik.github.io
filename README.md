@@ -18,6 +18,6 @@ O site é um único arquivo, o `index.html`, sem bibliotecas. O GitHub Pages pub
 
 ---
 
-Instagram: [@pedroplatenik](https://www.instagram.com/pedroplatenik/)
+Instagram: [@pedro_platenik](https://www.instagram.com/pedro_platenik/)
 
 © Pedro Platenik. Todos os direitos reservados.
